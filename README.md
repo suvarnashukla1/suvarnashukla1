@@ -4,15 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suvarnashukla1&label=Profile%20views&color=0e75b6&style=flat" alt="suvarnashukla1" /> </p>
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **Backend**
 
 - 🌱 I’m currently learning **React.js and backend**
 
 - 👨‍💻 All of my projects are available at [https://github.com/suvarnashukla1](https://github.com/suvarnashukla1)
 
 - 📫 How to reach me **suvarnashukla11@gmail.com**
-
-- 📄 Know about my experiences [https://online.publuu.com/555138/1247870](https://online.publuu.com/555138/1247870)
 
 - ⚡ Fun fact **I have a good sense of humor!**
 
