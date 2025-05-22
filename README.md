@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **suvarnashukla11@gmail.com**
 
-- ⚡ Fun fact **I have a good sense of humor!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
