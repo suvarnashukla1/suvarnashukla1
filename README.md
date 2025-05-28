@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **A healthCare Project**
 
-- 🌱 I’m currently learning ** backend**
+- 🌱 I’m currently learning **backend**
 
 - 👨‍💻 All of my projects are available at [https://github.com/suvarnashukla1](https://github.com/suvarnashukla1)
 
